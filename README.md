@@ -1,6 +1,6 @@
-# Machine Learning Tutorials - Part 2: Classification
+# Machine Learning Tutorials - Part 3: Classification
 
-Welcome to **Machine Learning Tutorials - Part 2: Classification**, the second part of our beginner-friendly guide to machine learning. In this part, we focus on popular classification algorithms such as Decision Trees, K-Nearest Neighbors (KNN), Naive Bayes, and Support Vector Machines (SVM). This tutorial series provides hands-on coding exercises using Python, Scikit-learn, and other essential libraries, enabling you to master these classification techniques.
+Welcome to **Machine Learning Tutorials - Part 3: Classification**, the second part of our beginner-friendly guide to machine learning. In this part, we focus on popular classification algorithms such as Decision Trees, K-Nearest Neighbors (KNN), Naive Bayes, and Support Vector Machines (SVM). This tutorial series provides hands-on coding exercises using Python, Scikit-learn, and other essential libraries, enabling you to master these classification techniques.
 
 ## Table of Contents
 - [Introduction](#introduction)
