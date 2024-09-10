@@ -27,7 +27,7 @@ To run the tutorials, ensure you have Python and the necessary libraries install
 - Scikit-learn
 - NumPy
 - Pandas
-- Matplotlib (optional for visualization)
+- Seaborn and Matplotlib (optional for visualization)
 
 ## Tutorial Topics
 1. **Decision Trees**
