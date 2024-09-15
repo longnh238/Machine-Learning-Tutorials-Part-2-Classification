@@ -47,7 +47,7 @@ To run the tutorials, ensure you have Python and the necessary libraries install
 Each algorithm is explained in its own Jupyter Notebook file. To explore the tutorials, run `jupyter notebook` in your terminal and navigate to the `.ipynb` file for each topic to get started with practical code implementations.
 
 ## Contributing
-We welcome contributions to this project! Whether it's fixing a bug, adding new tutorials, or improving existing content, feel free to participate.
+Contributions are welcome! Whether it's fixing a bug, adding new tutorials, or improving existing content, feel free to participate.
 
 To contribute:
 1. Fork the repository.
